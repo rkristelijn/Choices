@@ -531,7 +531,7 @@ declare namespace Choices {
      *
      * @default 'auto'
      */
-    position: 'auto' | 'top';
+    position: 'auto' | 'top' | 'bottom';
 
     /**
      * Whether the scroll position should reset after adding an item.
